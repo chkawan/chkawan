@@ -15,7 +15,7 @@
 <div> 
   <a href="https://instagram.com/ch_kawan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <!--	<a href="https://www.twitch.tv/darveroon" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
- <a href="https://discord.gg/ESZxSYuXje" target="_blank"><img src="https://img.shields.io/badge/Outlook-OUTLOOK-blue" target="_blank"></a> 
+ <a href="https://discord.gg/ESZxSYuXje" target="_blank"><img src="https://img.shields.io/badge/-OUTLOOK-blue" target="_blank"></a> 
   <a href = "mailto:chris7kw@hotmail.com"><img src="https://logospng.org/wp-content/uploads/microsoft-outlook.png=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
