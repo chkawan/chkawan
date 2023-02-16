@@ -9,3 +9,4 @@
 - ⚡ Fun fact: ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chkawan&show_icons=true&theme=transparent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&re
