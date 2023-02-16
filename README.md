@@ -9,6 +9,7 @@
 - ⚡ Fun fact: ...
 
 <hr>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chkawan&show_icons=true&theme=transparent&title_color=2f80ed&text_bold=false)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkawan&layout=compact&show_icons=true&theme=transparent&title_color=2f80ed&card_width=417&card_height=500)](https://github.com/chkawan/github-readme-stats)
@@ -19,3 +20,10 @@
   <a href = "mailto:chris7kw@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/christopher-kawan-230429157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<div>
+  
+            <i class="devicon-html5-plain-wordmark"></i>
+          
+  
+ </div>
