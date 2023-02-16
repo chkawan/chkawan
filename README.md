@@ -7,11 +7,12 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 
+
+<hr>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chkawan&show_icons=true&theme=transparent&title_color=2f80ed&text_bold=false)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkawan&layout=compact&show_icons=true&theme=transparent&title_color=2f80ed&card_width=417&card_height=500)](https://github.com/chkawan/github-readme-stats)
-
+<hr>
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ch_kawan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
