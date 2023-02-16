@@ -11,3 +11,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chkawan&show_icons=true&theme=transparent&title_color=2f80ed&text_bold=false)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkawan&layout=compact&show_icons=true&theme=transparent&title_color=2f80ed&card_width=417&card_height=500)](https://github.com/chkawan/github-readme-stats)
+
+<div>
+
+  <a href="" >
+    <img href="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+  </a>
+
+</div>
