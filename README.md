@@ -9,4 +9,4 @@
 - ⚡ Fun fact: ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chkawan&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkawan&layout=compact&langs_count=8)](https://github.com/chkawan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkawan&langs_count=8)](https://github.com/chkawan/github-readme-stats)
