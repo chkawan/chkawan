@@ -34,3 +34,5 @@
 </div>
 
 ![Snake animation](http://github.com/chkawan/chkawan/blob/output/dist/github-contribution-grid-snake.svg)
+
+![](https://github.com/chkawan/snaker/raw/output/github-contribution-grid-snake.svg)
