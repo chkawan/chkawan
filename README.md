@@ -10,4 +10,13 @@
 - 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chkawan&show_icons=true&theme=transparent&title_color=2f80ed&text_bold=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkawan&layout=default&show_icons=true&theme=transparent&title_color=2f80ed&card_width=417&card_height=500)](https://github.com/chkawan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkawan&layout=compact&show_icons=true&theme=transparent&title_color=2f80ed&card_width=417&card_height=500)](https://github.com/chkawan/github-readme-stats)
+
+<div> 
+  <a href="https://instagram.com/ch_kawan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <!--	<a href="https://www.twitch.tv/darveroon" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
+ <a href="https://discord.gg/ESZxSYuXje" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:chris7kw@hotmail.com"><img src="https://logospng.org/wp-content/uploads/microsoft-outlook.png=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
