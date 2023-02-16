@@ -8,6 +8,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chkawan&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chkawan&show_icons=true&theme=transparent&title_color=2f80ed)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkawan&layout=compact&show_icons=true&?theme=github_dark&card_width=400¨&card_height=500 )](https://github.com/chkawan/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkawan&layout=compact&show_icons=true&title_color=2f80edcard_width=400¨&card_height=500 )](https://github.com/chkawan/github-readme-stats)
