@@ -33,6 +33,6 @@
   <a href="https://www.linkedin.com/in/christopher-kawan-230429157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](http://github.com/chkawan/chkawan/blob/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/chkawan/chkawan/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://github.com/chkawan/snaker/raw/output/github-contribution-grid-snake.svg)
