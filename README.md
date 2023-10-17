@@ -16,7 +16,7 @@
   <a href="https://github.com/chkawan">
 <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=chkawan&show_icons=true&theme=transparent&title_color=2f80ed&text_bold=false"/>  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chkawan&layout=compact&show_icons=true&theme=transparent&title_color=2f80ed)](https://github.com/chkawan/github-readme-stats"/>
 
-
+<!--
 ![Snake animation](https://github.com/chkawan/chkawan/blob/output/github-contribution-grid-snake.svg)
 </div>
 <br>
@@ -25,5 +25,5 @@
  <a href="https://instagram.com/ch_kawan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
  <a href = "mailto:chris7kw@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/christopher-kawan-230429157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-
+-->
 </div>
