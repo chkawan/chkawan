@@ -13,7 +13,7 @@
 
 <br>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/chkawan">
 <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=chkawan&show_icons=true&theme=transparent&title_color=2f80ed&text_bold=false"/>  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chkawan&layout=compact&show_icons=true&theme=transparent&title_color=2f80ed)](https://github.com/chkawan/github-readme-stats"/>
 
