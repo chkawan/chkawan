@@ -29,7 +29,8 @@
 <a href="https://instagram.com/ch_kawan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Portif%C3%B3lio-986dff?style=for-the-badge" target="_blank"></a>
 <br></div>
 
-<div align="center">##
+## Status:
+<div align="center">
   <a href="https://github.com/chkawan">
 <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=chkawan&show_icons=true&theme=transparent&title_color=2f80ed&text_bold=false"/>  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chkawan&layout=compact&show_icons=true&theme=transparent&title_color=2f80ed)](https://github.com/chkawan/github-readme-stats"/>
 </div>
