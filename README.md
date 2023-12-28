@@ -11,8 +11,8 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 
-#Portifólio 
-
+##Portifólio 
+<a href="https://instagram.com/ch_kawan" target="_blank"><img loading="lazy" src="https://icons8.com.br/icon/111593/portf%C3%B3lio"><a>
 <br>
 ## Contatos:
 
