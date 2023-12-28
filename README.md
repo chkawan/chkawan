@@ -1,8 +1,6 @@
 <h1>Hi there! My name is Christopher.</h1>
 <p>Seja muito bem vindo ao meu canto de projetos e testes.</p>
 
-<div align="center" border-top="1px Soliod #ccc" style="display: inline_block"><br></div>
-
 ## BACKEND
 <div>
 <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"><img align="center" alt="py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
