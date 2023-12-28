@@ -20,7 +20,8 @@
 <div>
 <a href="https://instagram.com/ch_kawan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:ch_kawan@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ch-kawan/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Linketree-%230077B5?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/ch-kawan/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://linktr.ee/ch_kawan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Linketree-%230077B5?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
 <br></div>
 
 ## Portifólio :
