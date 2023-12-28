@@ -11,11 +11,11 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 
-##Portifólio :
+#Portifólio :
 <br>
 
 <br>
-## Contatos:
+# Contatos:
 
 <div>
 <a href="https://instagram.com/ch_kawan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
