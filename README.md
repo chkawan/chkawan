@@ -1,5 +1,10 @@
-<p>Seja muito bem vindo ao meu canto de projetos e testes.</p>p
-<p>Meu nome é <spam>Christopher Kawan</spam>.</p>
+<p>Seja muito bem vindo ao meu canto de projetos e testes.</p>
+<p>
+              Meu nome é Christopher Kawan,
+              sou o desenvolvedor software. Atualmente sou freelancer como Backend Developer.
+              Desenvolvo sistemas backend modernos e de alta qualidade, com foco em desempenho, otimização, segurança e
+              integrações.
+            </p>
 
 ## BACKEND
 <div>
