@@ -26,7 +26,7 @@
 
 ## Portifólio :
 <div>
-<a href="https://instagram.com/ch_kawan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/portifolio-8A2BE2" target="_blank"></a>
+<a href="https://instagram.com/ch_kawan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Portif%C3%B3lio-986dff?style=for-the-badge" target="_blank"></a>
 <br></div>
 
 <br>
