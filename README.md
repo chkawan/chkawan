@@ -30,7 +30,7 @@
 
 ## Portifólio :
 <div>
-<a href="https://ch-kawan.vercel.app/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Portif%C3%B3lio-986dff?style=for-the-badge" target="_blank"></a>
+<a href="https://ch-kawan.vercel.app/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Portf%C3%B3lio-986dff?style=for-the-badge" target="_blank"></a>
 <br></div>
 
 ## Status:
