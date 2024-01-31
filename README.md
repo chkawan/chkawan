@@ -28,7 +28,7 @@
 <a href="https://linktr.ee/ch_kawan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Linketree-%20B2AA?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
 <br></div>
 
-## Portifólio :
+## Portfolio :
 <div>
 <a href="https://ch-kawan.vercel.app/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Portf%C3%B3lio-986dff?style=for-the-badge" target="_blank"></a>
 <br></div>
