@@ -1,9 +1,9 @@
 <p>Seja muito bem vindo ao meu canto de projetos e testes.</p>
-<p>
-              Meu nome é Christopher Kawan,
-              sou o desenvolvedor software. Atualmente sou freelancer como Backend Developer.
-              Desenvolvo sistemas backend modernos e de alta qualidade, com foco em desempenho, otimização, segurança e
-              integrações.
+           <p>
+              Meu nome é Christopher Kawan.
+Sou formado em Sistemas de Informação, com pós-graduação em Engenharia de Software. Atualmente, não trabalho na área, mas estou em busca de oportunidades para aplicar meus conhecimentos e adquirir novas experiências.
+
+Mesmo não atuando profissionalmente com programação no momento, estou sempre aprendendo e me aprimorando por meio de pequenos projetos e novos desafios.
             </p>
 
 ## BACKEND
