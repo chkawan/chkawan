@@ -1,6 +1,6 @@
 <p>Seja muito bem vindo ao meu canto de projetos e testes.</p>
            <p>
-              Meu nome é Christopher Kawan.
+              Meu nome é Christopher Kawan.<br>
 Sou formado em Sistemas de Informação, com pós-graduação em Engenharia de Software. Atualmente, não trabalho na área, mas estou em busca de oportunidades para aplicar meus conhecimentos e adquirir novas experiências.
 
 Mesmo não atuando profissionalmente com programação no momento, estou sempre aprendendo e me aprimorando por meio de pequenos projetos e novos desafios.
