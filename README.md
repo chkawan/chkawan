@@ -32,8 +32,8 @@ Mesmo não atuando profissionalmente com programação no momento, estou sempre 
 <a href="https://ch-kawan.vercel.app/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Portf%C3%B3lio-986dff?style=for-the-badge" target="_blank"></a>
 <br></div>
 
-## Status:
+<!--## Status:
 <div>
-<a href="https://github.com/chkawan">
+ <a href="https://github.com/chkawan">
 <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=chkawan&show_icons=true&theme=transparent&title_color=2f80ed&text_bold=false"/>  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chkawan&layout=compact&show_icons=true&theme=transparent&title_color=2f80ed)](https://github.com/chkawan/github-readme-stats"/>
-</div>
+</div> -->
