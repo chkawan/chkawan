@@ -79,7 +79,7 @@ Atuar como **Desenvolvedor Back-end**, criando soluções robustas orientadas a 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher_Kawan-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ch-kawan/)
 [![Email](https://img.shields.io/badge/Email-ch_kawan@outlook.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ch_kawan@outlook.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-000?style=flat&logo=vercel&logoColor=white)](https://ch-kawan.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-000?style=flat&logo=vercel&logoColor=white)](https://www.kawandev.com.br/)
 [![Instagram](https://img.shields.io/badge/Instagram-@kawan.dev-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kawan.dev)
 
 ---
